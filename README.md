@@ -66,7 +66,7 @@ password_management_system/
 
 #### 1. Clone Repository
 ```bash
-git clone https://github.com/Fauzinih/password_management_system.git
+git clone https://github.com/Fauzinih/Pass_Management_System.git
 cd password_management_system
 ```
 #### 2. Install Dependency
